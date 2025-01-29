@@ -1,5 +1,5 @@
 # SkillCraft_Technology_Internship
-Tasks
+Tasks-1
 Data visualization project using your dataset. It includes:
 
 1) Data Loading and Cleaning
