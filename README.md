@@ -12,8 +12,8 @@ This project includes data cleaning, exploratory analysis, and visualizations su
 Task-2
 perform data cleaning and exploratory data analysis (EDA) on your Titanic dataset. This includes:
 
-1)Loading the dataset
-2)Checking for missing values and handling them
-3)Exploring data distributions and summary statistics
-4)Visualizing relationships between variables
-5)Identifying patterns and trends
+1) Loading the dataset
+2) Checking for missing values and handling them
+3) Exploring data distributions and summary statistics
+4) Visualizing relationships between variables
+5) Identifying patterns and trends
