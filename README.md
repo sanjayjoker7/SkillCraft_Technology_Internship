@@ -8,3 +8,12 @@ Data visualization project using your dataset. It includes:
 4) Insights and Conclusion
 
 This project includes data cleaning, exploratory analysis, and visualizations such as bar charts, histograms, and pie charts.
+
+Task-2
+perform data cleaning and exploratory data analysis (EDA) on your Titanic dataset. This includes:
+
+1)Loading the dataset
+2)Checking for missing values and handling them
+3)Exploring data distributions and summary statistics
+4)Visualizing relationships between variables
+5)Identifying patterns and trends
