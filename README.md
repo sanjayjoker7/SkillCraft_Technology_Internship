@@ -22,9 +22,9 @@ Task-3
 I'll build a Decision Tree Classifier using the Bank Marketing Dataset to predict whether a customer will subscribe to a product or service. Here’s the step-by-step approach:
 
  Steps for Building the Decision Tree Classifier
-1️) Load the Dataset
-2️) Preprocess Data (handle missing values, encode categorical variables)
-3️) Split into Training & Testing Sets
-4️) Train a Decision Tree Model
-5️) Evaluate Performance (accuracy, precision, recall, F1-score)
-6️) Visualize the Decision Tree & Feature Importance
+1️)  Load the Dataset
+2️)  Preprocess Data (handle missing values, encode categorical variables)
+3️)  Split into Training & Testing Sets
+4️)  Train a Decision Tree Model
+5️)  Evaluate Performance (accuracy, precision, recall, F1-score)
+6️)  Visualize the Decision Tree & Feature Importance
