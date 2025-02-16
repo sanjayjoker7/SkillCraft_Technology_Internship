@@ -28,3 +28,12 @@ I'll build a Decision Tree Classifier using the Bank Marketing Dataset to predic
 4) Train a Decision Tree Model
 5) Evaluate Performance (accuracy, precision, recall, F1-score)
 6) Visualize the Decision Tree & Feature Importance
+
+Task-4
+Data Visualization Project using Traffic Accident Dataset
+
+1) Data Loading & Cleaning: Handled missing values and formatted data.
+2) Exploratory Data Analysis (EDA): Identified accident trends and patterns.
+3) Visualizations: Created bar charts, histograms, and pie charts to showcase accident frequency by time, weather, and road conditions.
+4) Insights: Found accident hotspots, peak accident hours, and weather-related risks.
+5) Conclusion: This project helped uncover key factors contributing to accidents, providing insights for better road safety measures.
